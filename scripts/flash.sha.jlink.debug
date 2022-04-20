@@ -1,0 +1,3 @@
+loadbin build.sha/Debug/sha.bin 0
+r
+q

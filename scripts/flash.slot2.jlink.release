@@ -1,0 +1,3 @@
+loadbin build.firmware-slot2/Release/firmware-slot2.bin 0x0
+r
+q

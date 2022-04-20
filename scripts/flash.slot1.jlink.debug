@@ -1,0 +1,3 @@
+loadbin build.firmware-slot1/Debug/firmware-slot1.bin 0x0
+r
+q

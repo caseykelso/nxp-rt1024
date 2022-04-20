@@ -1,0 +1,3 @@
+loadbin build.firmware-slot2/Debug/firmware-slot2.bin 0x40000
+r
+q

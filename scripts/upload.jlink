@@ -1,0 +1,3 @@
+loadbin flash.bin 0x0
+r
+q
